@@ -1,0 +1,11 @@
+# Local server state and configuration
+data/
+logs/
+config/
+
+# Local environment settings and credentials
+.env
+.env.*
+
+# Historical deployment backups
+compose.yaml.before-*
